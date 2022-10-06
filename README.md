@@ -27,8 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizoo&layout=compact&theme=dark)](https://github.com/Fizoo/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Fizoo/badges/large)](https://www.codewars.com/users/Fizoo)
-[![wakatime](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f.svg)](https://wakatime.com/@a8f34c3a-1ea9-48b1-ab04-8e414283035f) Joined May 2 2022
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fizoo&theme=solarized_dark)
 
@@ -39,5 +37,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
 ---
-
+[![wakatime](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f.svg)](https://wakatime.com/@a8f34c3a-1ea9-48b1-ab04-8e414283035f) Joined May 2 2022
 
