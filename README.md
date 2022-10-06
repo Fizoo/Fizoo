@@ -38,6 +38,7 @@
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f/project/8e0a4a5d-8ee2-45fb-9199-90688c825fb3.svg)](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f/project/8e0a4a5d-8ee2-45fb-9199-90688c825fb3)
 
 <img
   src="https://github.com/Fizoo/movies/blob/oleg/images/stat.svg"
