@@ -38,13 +38,5 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f/project/8e0a4a5d-8ee2-45fb-9199-90688c825fb3.svg)](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f/project/8e0a4a5d-8ee2-45fb-9199-90688c825fb3)
-
-[![wakatime](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f/project/8e0a4a5d-8ee2-45fb-9199-90688c825fb3.svg)](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f/project/8e0a4a5d-8ee2-45fb-9199-90688c825fb3)
-
-https://wakatime.com/@a8f34c3a-1ea9-48b1-ab04-8e414283035f
-
-[![wakatime](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f.svg)](https://wakatime.com/@a8f34c3a-1ea9-48b1-ab04-8e414283035f)
-
 <figure><embed src="https://wakatime.com/share/@Fizoo/05971fe8-5a90-4752-8f55-0e33bafec9a9.svg"></embed></figure>
 
