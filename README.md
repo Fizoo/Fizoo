@@ -4,12 +4,20 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fizoo&theme=dark)](https://github.com/Fizoo/github-profile-trophy)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-### :man_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizoo&layout=compact&theme=vision-friendly-dark)](https://github.com/Fizoo/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/Fizoo/badges/large)](https://www.codewars.com/users/Fizoo)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fizoo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fizoo&theme=dark)](https://github.com/Fizoo/github-readme-stats)
 
 ---
 
@@ -28,15 +36,3 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fizoo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizoo&layout=compact&theme=vision-friendly-dark)](https://github.com/Fizoo/github-readme-stats)
-
-[![codewars](https://www.codewars.com/users/Fizoo/badges/large)](https://www.codewars.com/users/Fizoo)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fizoo&theme=dark)](https://github.com/Fizoo/github-readme-stats)
-
