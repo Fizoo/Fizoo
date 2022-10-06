@@ -38,5 +38,5 @@
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@Fizoo/05971fe8-5a90-4752-8f55-0e33bafec9a9.svg"></embed></figure>
+[![wakatime](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f.svg)](https://wakatime.com/@a8f34c3a-1ea9-48b1-ab04-8e414283035f)
 
