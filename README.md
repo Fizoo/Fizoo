@@ -2,23 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a Front End Developer from Ukraine UA</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fizoo&theme=dark)](https://github.com/Fizoo/github-profile-trophy)
-
-
-
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizoo&layout=compact&theme=vision-friendly-dark)](https://github.com/Fizoo/github-readme-stats)
-
-[![codewars](https://www.codewars.com/users/Fizoo/badges/large)](https://www.codewars.com/users/Fizoo)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fizoo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fizoo&theme=dark)](https://github.com/Fizoo/github-readme-stats)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -36,3 +19,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizoo&layout=compact&theme=vision-friendly-dark)](https://github.com/Fizoo/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/Fizoo/badges/large)](https://www.codewars.com/users/Fizoo)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fizoo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fizoo&theme=dark)](https://github.com/Fizoo/github-readme-stats)
