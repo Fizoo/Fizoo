@@ -44,7 +44,7 @@
 />
 Example:
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/Fizoo/movies/blob/oleg/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
 
