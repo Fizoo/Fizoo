@@ -38,5 +38,5 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![codewars](https://www.codewars.com/users/Fizoo/badges/large)](https://www.codewars.com/users/Fizoo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fizoo)](https://github.com/Fizoo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fizoo&theme=dark)](https://github.com/Fizoo/github-readme-stats)
 
