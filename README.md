@@ -24,13 +24,9 @@
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizoo&layout=compact&theme=vision-friendly-dark)](https://github.com/Fizoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizoo&layout=compact&theme=solarized_dark)](https://github.com/Fizoo/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Fizoo/badges/large)](https://www.codewars.com/users/Fizoo)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fizoo&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fizoo&theme=solarized_dark)
 
