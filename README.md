@@ -39,3 +39,4 @@
 ---
 [![wakatime](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f.svg)](https://wakatime.com/@a8f34c3a-1ea9-48b1-ab04-8e414283035f) Joined May 2 2022
 date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+Date.format(new Date("2 May 2022"), "%B %d, %Y"); 
