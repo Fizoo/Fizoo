@@ -36,7 +36,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fizoo&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fizoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fizoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fizoo)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fizoo)](https://github.com/anuraghazra/github-readme-stats)
