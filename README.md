@@ -36,6 +36,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fizoo&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 [![wakatime](https://wakatime.com/badge/user/a8f34c3a-1ea9-48b1-ab04-8e414283035f.svg)](https://wakatime.com/@a8f34c3a-1ea9-48b1-ab04-8e414283035f) Joined May 2 2022
 
